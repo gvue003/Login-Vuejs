@@ -38,7 +38,7 @@ export default {
 }
 
 .login-form {
-  text-align: center; /* Center the title and the content */
+  text-align: center;
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
